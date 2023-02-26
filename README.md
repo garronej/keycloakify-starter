@@ -1,3 +1,5 @@
+> ⛔️ WARNING: Deprecated, heads over to https://github.com/codegouvfr/keycloakify-starter
+
 <p align="center">
     <img src="https://github.com/garronej/keycloakify-starter/workflows/ci/badge.svg?branch=main">
 </p>
